@@ -1,9 +1,9 @@
 from twilio.rest import Client
 
 # Twilio credentials (get from Twilio console)
-ACCOUNT_SID = "AC59aff6cf95ec28dc1538a69e00436e0f"
-AUTH_TOKEN = "25bef53b1ac0a69852d44ca51bbb2617"
-TWILIO_PHONE_NUMBER = "+18145930804"  # Twilio number
+ACCOUNT_SID = ""
+AUTH_TOKEN = ""
+TWILIO_PHONE_NUMBER = ""  # Twilio number
 
 # List of phone numbers (with country code)
 numbers = ["+918421204009"]
